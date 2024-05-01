@@ -1,0 +1,11 @@
+{
+    "firmware": [
+        {
+            "software": "v0.2.0",
+            "hardware": [
+                "v1.0"
+            ],
+            "binary": "firmware_v0.2.0.bin"
+        }
+    ]
+}

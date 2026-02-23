@@ -4,10 +4,11 @@
             "software": "v0.3.0",
             "minSoftware": "v0.0.0",
             "hardware": [
-                "v1.1"
+                "v1.1",
+                "v2.0"
             ],
             "binary": "firmware_v0.3.0.bin",
-            "description": "All v1.1 hardware should come pre-installed with this firmware, so should never have to update to this over bluetooth."
+            "description": "All v1.1 and v2.0 hardware should come pre-installed with this firmware, so should never have to update to this over bluetooth."
         },
         {
             "software": "v0.3.0",

@@ -22,7 +22,7 @@
             "hardware": [
                 "v1.0"
             ],
-            "binary": "firmware_v0.4.0_hw_1_0.bin"
+            "binary": "firmware_0.3.0_hw_1_0.bin"
         }
     ]
 }

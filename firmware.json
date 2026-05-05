@@ -1,12 +1,12 @@
 {
     "firmware": [
         {
-            "software": "v0.4.2",
+            "software": "v0.4.3",
             "minSoftware": "v0.0.0",
             "hardware": [
                 "v2.0"
             ],
-            "binary": "firmware.0.4.2.bin"
+            "binary": "firmware.0.4.3.bin"
         },
         {
             "software": "v0.3.0",
